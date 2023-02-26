@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="983519587781663433" datatype="html">
+        <source>Bienvenido</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">304</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2639744828310129083" datatype="html">
+        <source>Internacionalización (i18n):</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">324</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7695494678467257933" datatype="html">
+        <source>Proceso de preparación y diseño de la aplicaicón para su uso en diferentes idiomas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">324</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2191180124348220847" datatype="html">
+        <source>Separación del contenido para su traducción</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">326</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6332326578972884684" datatype="html">
+        <source>Actualización de la app para soportar texto bidireccional (LTR / RTL : Izquierda -&gt; derecha / Derecha -&gt; izquierda)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">327</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5348451834560420009" datatype="html">
+        <source>Localización:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6574850796644888078" datatype="html">
+        <source>Construir diferentes versiones de la app para las diferentes lugares</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">333</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6931576618858835979" datatype="html">
+        <source>Lugar (locale): Región donde la gente hablar un idioma o una variante de éste</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">334</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7795817648338751944" datatype="html">
+        <source>Medidas de tiempo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">336</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7875540301395624920" datatype="html">
+        <source>Números y moneday</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">337</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5038197309792023166" datatype="html">
+        <source>Traducciones de nombres (zonas horarias, idiomas y países)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">338</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1864755564168200887" datatype="html">
+        <source>[id_idioma] - [extension_lugar] (en-US)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">340</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
