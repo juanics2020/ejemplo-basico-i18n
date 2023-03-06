@@ -4,10 +4,10 @@
     <body>
       <trans-unit id="983519587781663433" datatype="html">
         <source>Bienvenido</source>
-        <targe>Welcome</targe>
+        <target>Welcome</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">304</context>
+          <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2639744828310129083" datatype="html">
@@ -15,7 +15,7 @@
         <target>Internationalization (i18n):</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">324</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7695494678467257933" datatype="html">
@@ -23,7 +23,7 @@
         <target>Is the process of preparing and designing your application to support its use in different languages</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">324</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2191180124348220847" datatype="html">
@@ -31,7 +31,7 @@
         <target>Separating content for translation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">326</context>
+          <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6332326578972884684" datatype="html">
@@ -39,7 +39,7 @@
         <target>Updating your app to support bidirectional text</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">327</context>
+          <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5348451834560420009" datatype="html">
@@ -47,7 +47,7 @@
         <target>Localization:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">332</context>
+          <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6574850796644888078" datatype="html">
@@ -55,7 +55,7 @@
         <target>The process of building versions of your project for different locales</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">333</context>
+          <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6931576618858835979" datatype="html">
@@ -63,7 +63,7 @@
         <target>Locales (lugar): Region where people speak a language or language variant</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">334</context>
+          <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7795817648338751944" datatype="html">
@@ -71,15 +71,15 @@
         <target>Time measurements</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">336</context>
+          <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7875540301395624920" datatype="html">
+      <trans-unit id="5586424915057975749" datatype="html">
         <source>Números y monedas</source>
         <target>Numbers and currency</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">337</context>
+          <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5038197309792023166" datatype="html">
@@ -87,7 +87,7 @@
         <target>Translations of names (time zones, languages and countries)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">338</context>
+          <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1864755564168200887" datatype="html">
@@ -95,7 +95,15 @@
         <target>[language_id] - [locale_extension] (en-US)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
-          <context context-type="linenumber">340</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6022696798709849763" datatype="html">
+        <source>Dibujo abstracto</source>
+        <source>Abstract drawing</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">48</context>
         </context-group>
       </trans-unit>
     </body>

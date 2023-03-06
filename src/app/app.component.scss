@@ -102,3 +102,12 @@ p {
   a:hover {
     color: #125699;
   }
+
+  .image-area{
+    max-width: 25%;
+    & img{
+      height: auto;
+      width: 100%;
+      display: block;
+    }
+  }
